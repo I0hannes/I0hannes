@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋 I'm I0hannes
+### Pronouns: He/Him
+- I'm currently not partecipating in any repo other than this
+- I'm learning about github and open source
+- I'm looking for collaborations
+- AMA about js, manga
+
 
 <!--
 **I0hannes/I0hannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
