@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm I0hannes
 ### Pronouns: He/Him
-- I'm currently not partecipating in any repo other than this and for the [aoc](adventofcode.com)
+- I'm currently not partecipating in any repo other than this and for the [aoc](https://adventofcode.com)
 - I'm learning about github and open source
 - I'm looking for collaborations
 - AMA about js, manga, finance
